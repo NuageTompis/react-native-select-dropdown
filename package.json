@@ -24,5 +24,8 @@
     "url": "https://github.com/AdelRedaa97/react-native-select-dropdown"
   },
   "author": "Adel Reda (AdelRedaa97)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-native-paper": "^5.10.0"
+  }
 }
